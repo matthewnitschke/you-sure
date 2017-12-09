@@ -1,0 +1,12 @@
+{
+  "name": "you-sure",
+  "version": "1.0.0",
+  "main": "src/you-sure.js",
+  "repository": "https://github.com/matthewnitschke/you-sure.git",
+  "author": "Matthew <matthewcnitschke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chi": "^0.0.10",
+    "mocha": "^4.0.1"
+  }
+}
